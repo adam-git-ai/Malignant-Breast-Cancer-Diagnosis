@@ -16,6 +16,10 @@ The data is preprocessed by ´´´dataprocessing.py´´´. As default, 80 % of t
 The script ´´´neural.py´´´ is responsible for training and evaluating the neural network.
 
 # Prerequisites
+Python 3.7
+
 NumPy
+
 Tensorflow
+
 Keras, installation: https://keras.io/#installation
