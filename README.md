@@ -11,9 +11,9 @@ https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 # Use
 Clone the data to the same directory as the scripts from https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/downloads/breast-cancer-wisconsin-data.zip/2.
 
-The data is preprocessed by ´´´dataprocessing.py´´´. As default, 80 % of the instances are used for training of the algorithm, the remaining 20 % is used to evaluate the model's accuracy. This ratio can be altered through changing the parameter ´´´numerator´´´.
+The data is preprocessed by *dataprocessing.py*. As default, 80 % of the instances are used for training of the algorithm, the remaining 20 % is used to evaluate the model's accuracy. This ratio can be altered through changing the parameter *numerator*.
 
-The script ´´´neural.py´´´ is responsible for training and evaluating the neural network.
+The script *neural.py* is responsible for training and evaluating the neural network.
 
 # Prerequisites
 Python 3.7
